@@ -10,6 +10,8 @@ Check out the live demo on **Netlify**:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1f470ce9-b4be-446b-a77e-e9ae94927f67/deploy-status)](https://app.netlify.com/sites/museums-exploring/deploys)
 
+Or click here: https://museums-exploring.netlify.app
+
 ---
 
 ## Technologies Used
@@ -17,9 +19,3 @@ Check out the live demo on **Netlify**:
 - HTML5
 - CSS3
 - Netlify for deployment
-
----
-
-## License
-
-MIT License
